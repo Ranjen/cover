@@ -1,0 +1,64 @@
+body{
+    background-image: url("image.png") ;
+}
+h1{
+    padding-left: 5px;
+    padding-top:20px;
+    color:whitesmoke;
+}
+font{
+    font-size: 18;
+    align-self: auto;
+    color:black;
+}
+.id2{
+    color:whitesmoke;
+    padding:5px;
+}
+.id3{
+    width:700;
+    background:linear-gradient(rgb(117, 17, 140),rgb(210, 8, 228),rgb(16, 149, 227));
+    margin: auto;
+    border:solid 4px black;
+    border-radius: 35px 35px;
+    padding: 25px;
+}
+.id4{
+    background:linear-gradient(45deg,rgb(74, 8, 255),rgb(164, 179, 180)); 
+    padding: 15px;   
+    margin:  auto;
+    font-size: 16px;
+    font-style: italic;
+    display:flex;
+    border-left: 5px solid;
+    text-align: center;
+}
+.id5 {
+    background:linear-gradient(rgb(249, 4, 179),rgb(115, 0, 255));    
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;   
+    border:solid 3px black;                   
+}
+.id6 {
+    font-size: 15;
+}
+.id7{
+    background:linear-gradient(rgb(57, 64, 101),whitesmoke);
+    border:solid 3px black;
+    border-radius: 0px 10px;
+    padding:15px;
+    
+}
+.color{
+    color:black;
+    background:radial-gradient(gold,goldenrod,black);
+    padding: 4px;
+    border-radius: 5px 5px;
+}
+.price{
+    padding-left: 84%;
+}
